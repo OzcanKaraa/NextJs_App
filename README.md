@@ -1,2 +1,2 @@
-# NextJs_Movie_App
+# NextJs_App
 Next.js
